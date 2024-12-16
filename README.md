@@ -42,16 +42,8 @@ The application allows users to add, view, and listen to their daily tasks. It a
 3. Tasks will be displayed in the text box and saved to `tasks.txt`.
 4. On every launch, the application will announce the tasks aloud.
 
-## Screenshot
 
-<<<<<<< HEAD
-## Friday Task Reminder UI Preview
 
-![Friday Task Reminder](images/Screenshot_2024-12-16.png)
-
-=======
-!![alt text](<Screenshot 2024-12-16 173927.png>)(screenshot.png)
->>>>>>> 7374d39bb938596dfe3bffdd5e345fc84ffd4b6a
 
 ## License
 
