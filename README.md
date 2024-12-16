@@ -44,7 +44,10 @@ The application allows users to add, view, and listen to their daily tasks. It a
 
 ## Screenshot
 
-![Screenshot Placeholder](screenshot.png)
+## Friday Task Reminder UI Preview
+
+![Friday Task Reminder](images/Screenshot_2024-12-16.png)
+
 
 ## License
 
